@@ -27,3 +27,41 @@ To view and interact with the completed tasks, please follow these steps:
 Feel free to explore the code and provide any feedback or suggestions for improvement.
 
 Thank you for reviewing my completed tasks!
+# OIBSIP Tasks
+
+This repository contains the completed Level-2 web tasks for the Oasis Infobyte internship.
+
+## Task Details
+
+### Task 1: Calculator App
+
+A calculator web application built with HTML, CSS, and JavaScript supporting basic operations.
+
+### Task 2: Tribute Page - Dr. B. R. Ambedkar
+
+A static tribute page highlighting the life and contributions of Dr. B. R. Ambedkar.
+
+### Task 3: Todo Web App
+
+A simple todo application to add, complete, and remove tasks using HTML/CSS/JS.
+
+## Getting Started
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/harikaundavalli777-lang/oasistasks.git
+```
+
+2. Open a task folder (for example `level-2/Task-1 Calculator/`) in a browser or code editor.
+
+## Publishing
+
+To host these static pages, enable GitHub Pages in the repository settings and select the `main` branch.
+
+## Notes
+
+- Branch: `main`
+- Repo origin: https://github.com/harikaundavalli777-lang/oasistasks.git
+
+Thank you for reviewing the tasks.
